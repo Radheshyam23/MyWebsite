@@ -1,0 +1,5 @@
+Hellotouch try.txt
+temp file
+exclamation!
+exclamationcat try.txt 
+when you add two ! marks, it gets replaced by the previous command!
